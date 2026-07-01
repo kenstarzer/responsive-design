@@ -22,3 +22,8 @@ h1 {
 	border-top: 2px solid var(--deep-mocha);
 	border-bottom: 2px solid var(--deep-mocha);
 }
+
+.dateline {
+	font-size: 1.6em;
+	margin-bottom: 30px;
+}
