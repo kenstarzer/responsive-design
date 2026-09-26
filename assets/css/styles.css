@@ -32,3 +32,14 @@ h1 {
 	padding: 10px;
 	border-bottom: 2px double var(--deep-mocha);
 }
+
+a {
+	color: var(--blue-bell);
+	font-weight: bold;
+	border-bottom: 2px solid var(--blue-bell);
+}
+
+a:hover {
+	color: var(--grey-olive);
+	border-bottom: 2px solid var(--blue-bell);
+}
