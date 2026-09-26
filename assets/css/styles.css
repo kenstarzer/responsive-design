@@ -42,5 +42,5 @@ a {
 
 a:hover {
 	color: var(--grey-olive);
-	border-bottom: 2px solid var(--grey-olive);
+	border-bottom: 2px dashed var(--grey-olive);
 }
